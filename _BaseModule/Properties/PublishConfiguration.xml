@@ -1,0 +1,47 @@
+<Publish>
+  <ModId Value="" />
+  <DisplayName Value="French Vanilla Sign Overrider (WE-Module)" />
+  <ShortDescription Value="A WriteEverywhere-Module that replaces Vanilla Signs with French ones." />
+  <LongDescription># French Vanilla Theme Overrider 
+
+Bonjour and Hello. This is a Vanilla Theme Overrider that turns Vanilla Signs and Roadmarkings to French ones.
+This Overrider uses the Caracteres L1 Font. Can be found [here](https://de.ffonts.net/Caracteres-L1.font?text=00000das1).
+
+---
+
+##  Requirements
+- [Write Everywhere](https://mods.paradoxplaza.com/mods/92908/Windows) – required  
+
+---
+
+##  Check my Signs Modules
+- [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)  
+- [Dutch Signs](https://mods.paradoxplaza.com/mods/121223/Windows)
+- [Italian Signs](https://mods.paradoxplaza.com/mods/121615/Windows)  
+- [Swiss Signs]()  
+- [French Signs]()
+- [Spanish Signs]() 
+
+##  Or my Vanilla Overriders
+- [Swiss Overrider](https://mods.paradoxplaza.com/mods/120627/Windows)  
+- [German Overrider](https://mods.paradoxplaza.com/mods/123745/Windows)   
+- 
+---
+
+##  Credits and Special Thanks
+- To **Klyte45** for the WriteEverywhere mod.
+- **Klyte45**s [Vanilla Theme Override Mod](https://mods.paradoxplaza.com/mods/106877/Windows), without that I would have lost my mind.
+
+---
+
+##  Enjoy &amp; Share Your Feedback!</LongDescription>
+  <Thumbnail Value="Properties/Thumbnail.png" />
+  <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/french-vanilla-sign-overrider-we-module.1866539" />
+  <ModVersion Value="1.0.0" />
+  <GameVersion Value="1.*" />
+  <ChangeLog>Initial Release</ChangeLog>
+  <Tag Value="Code Mod" />
+  <Screenshot Value="Screenshots\Screenshot_1.jpg" />
+  <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
+  <ExternalLink Type="github" Url="https://github.com/UnMaestro/Maestros-CS2-FrenchOverrider" />
+</Publish>

@@ -12,7 +12,7 @@
       </transform>
       <imageMesh atlas="French">
         <mesh>__CylinderHolder</mesh>
-        <image>SignNoTurnRight</image>
+        <image>Metal</image>
       </imageMesh>
       <defaultStyle>
         <color>FFFFFFFF</color>
